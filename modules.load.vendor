@@ -1,4 +1,5 @@
 mi_mem_engine.ko
+scene_swappiness.ko
 nxp_i2c.ko
 p73.ko
 xiaomi_spi_tee.ko
@@ -239,6 +240,7 @@ sla.ko
 miwill.ko
 miwill_mode_redudancy.ko
 minet.ko
+miicmpfilter.ko
 hardwareinfo.ko
 perf_helper.ko
 cam_log.ko
@@ -248,3 +250,5 @@ xiaomi_wifi_gpio.ko
 mi_log.ko
 mi_exception_log.ko
 mi_mempool.ko
+mi_mem_epoll.ko
+lb.ko

@@ -3,6 +3,7 @@ kheaders.ko
 zsmalloc.ko
 libarc4.ko
 virtio_pci_modern_dev.ko
+virtio_pci_legacy_dev.ko
 virtio_pci.ko
 virtio_balloon.ko
 cctrng.ko

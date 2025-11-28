@@ -11,6 +11,7 @@ mtk_disp_notify.ko
 zsmalloc.ko
 zram.ko
 mi_mem_engine.ko
+scene_swappiness.ko
 log_store.ko
 mtk_printk_ctrl.ko
 nvmem_mtk-devinfo.ko
